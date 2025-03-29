@@ -1,0 +1,7 @@
+参考至https://github.com/LetMeFly666/YuketangAutoPlayer
+
+本branch调整为外置刷课地址和cookie 请进入config.json修改
+Cookie留空以转为扫码登录
+COURSE_URL即为刷课指向地址 复制黏贴即可
+请查看Chrome的版本 需要下载适配的ChromeDriver 当前适配版本为134.0.6998.1XX
+需要Python环境 并进行pip install selenium
