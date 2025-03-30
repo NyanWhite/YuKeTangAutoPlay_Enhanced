@@ -7,11 +7,17 @@ Based https://github.com/LetMeFly666/YuketangAutoPlayer/ 并进行改进
 ##  改进了什么东西呢？
 
 - [x] 外置无头模式设定 刷课地址与登录使用的Cookie
+
 - [x] 去除ChromeWebDriver的PATH项 现在仅需放在相同目录即可
+
 - [x] 多线程刷课（支持自定线程数）
+
   *但不能用在同一个课程上 这会导致所有行为都只指向同一个视频*
+
 - [x] 多账号刷课进行
+  
   不是哥们可以这样？ 关于这条请看下方的config.json配置
+  
 - [x] 获取ChromeWebDriver并下载
   不完全实现 还是建议走原repo的教程
 
