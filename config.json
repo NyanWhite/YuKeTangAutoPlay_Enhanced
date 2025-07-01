@@ -1,16 +1,16 @@
 {
     "settings": {
-      "max_concurrent": 4,
-      "headless": false
+      "max_concurrent": 2,
+      "headless": true
     },
     "courses": [
       {
-        "url": "",
-        "cookie": ""
+        "url": "https://www.yuketang.cn/v2/web/studentLog/23870913?university_id=3095&platform_id=3&classroom_id=23870913&content_url=",
+        "cookie": "6dmfpdfs307lpe60864jyqrrncz0jnar"
       },
       {
-        "url": "",
-        "cookie": ""
+        "url": "https://www.yuketang.cn/v2/web/studentLog/23870900?university_id=3095&platform_id=3&classroom_id=23870900&content_url=",
+        "cookie": "6dmfpdfs307lpe60864jyqrrncz0jnar"
       },
       {
         "url": "",
